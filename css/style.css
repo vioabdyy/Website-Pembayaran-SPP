@@ -1,0 +1,111 @@
+body{
+	font-family: sans-serif;
+	background: white;
+}
+ 
+h1{
+	text-align: center;
+	/*ketebalan font*/
+	font-weight: 300;
+}
+ 
+.tulisan_data{
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+	text-transform: uppercase;
+}
+ 
+.kotak_data{
+	width: 1300px;
+	background: ;
+	/*meletakkan form ke tengah*/
+	margin: 30px auto;
+	padding: 30px 10px;
+	position: relative;
+	left: 100px;
+}
+.kotak_data1{
+	width: 800px;
+	background: ;
+	/*meletakkan form ke tengah*/
+	margin: 150px auto;
+	padding: 30px 0px;
+	position: relative;
+	right: 150px;
+
+}
+ 
+label{
+	font-size: 11pt;
+}
+ 
+.form_data{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+.form_dataa{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 230%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+ 
+.tombol_data{
+	background: #2C60B9 ;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+ 
+.tombol_data1{
+	background: #10A257	;
+	color: white;
+	font-size: 11pt;
+	width: 50%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 30px;
+	position: relative;
+	bottom: 0px;
+	left: 650px;
+	margin-right: 10px
+
+
+}
+
+.tombol_dataa{
+	background: #C13B3B;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 100px;
+}
+.tombol_dataaa{
+	background: #4AA43F ;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+ 
+.link{
+	color: #2C46FE;
+	text-decoration: none;
+	font-size: 10pt;
+}

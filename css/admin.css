@@ -1,0 +1,10 @@
+.masuk_tengah{
+	margin-top: 25vh;
+
+}
+.latar_masuk{
+	background-image:url('../laundry.jpg');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size: cover ;
+}
